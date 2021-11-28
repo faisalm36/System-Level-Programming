@@ -1,0 +1,1 @@
+To execute this file, youll need to open a C ide and copy and paste these codes into the IDE. The codes specificaly for lab 11 involve running C codes from previous assignments and using user input to run these codes.
